@@ -1,4 +1,4 @@
-# Hariya Nobuki(NKTLab , YNU , JP)
+# Hariya Nobuki(NKTLab )
 
 **I'm a researcher in Genetic Programming and Deep Learning.**
 **I intend to commit the code daily. I will be a driving force in AI and IoT. I will deter the black box featture of deep learning with 
